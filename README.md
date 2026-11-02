@@ -21,10 +21,12 @@ Os resultados descrevem os respondentes de cada edição e não representam toda
 **CFTV:** https://pesquisa.codigofonte.com.br (painéis acessados em 17/10/2026).
 
 **SoD (conjuntos de dados no Kaggle):**
+- https://www.kaggle.com/datasets/datahackers/state-of-data-2021
 - https://www.kaggle.com/datasets/datahackers/state-of-data-2022
 - https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023
 - https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025
 - https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2025-2026
+  
 
 ## Conteúdo do repositório
 
